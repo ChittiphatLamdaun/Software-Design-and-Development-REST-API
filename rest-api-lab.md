@@ -332,7 +332,7 @@ app.listen(port, () => {
 npm run dev
 ```
 ผลลัพธ์จะแสดง 
-![ผลการรัน Server](./images/run_server.png)
+![ผลการรัน Server](images/1.png)!
   
 ### 1.5 การทดสอบ API ด้วย Postman
 
